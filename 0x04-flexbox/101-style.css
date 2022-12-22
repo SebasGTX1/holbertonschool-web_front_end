@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+  }
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.box1 {
+    background: #1fcd6c;
+  }
+  .box2 {
+    background: #2d98de;
+  }
+  .box3 {
+    background: #344a61;
+
+  }
+  .box4 {
+    background: #9d55b9;
+  }
+  .box5 {
+    background: #ea7d04;
+  }
